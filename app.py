@@ -6,7 +6,7 @@ import platform
 app = Flask(__name__)
 
 # Caminho para o arquivo Excel
-excel_file = 'D:/INFOESTE/assets/css/user_data.xlsx'
+excel_file = 'E:/infoeste/user_data.xlsx'
 
 # Função para fechar o navegador
 def fechar_navegador1():
